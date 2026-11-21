@@ -1,5 +1,5 @@
 {
-  "name": "sqz",
+  "name": "@nomada-labs/sqz",
   "version": "0.1.0",
   "description": "Local image optimizer. Compress, convert, strip metadata, write alt text. No uploads. No limits.",
   "type": "module",

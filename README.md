@@ -3,8 +3,10 @@
 Compress images locally. No uploads. No limits.
 
 ```
-npm install -g sqz
+npm install -g @nomada-labs/sqz
 ```
+
+Then run it as `sqz`.
 
 ---
 
@@ -186,7 +188,7 @@ Or with npx if sqz isn't installed globally:
   "mcpServers": {
     "sqz": {
       "command": "npx",
-      "args": ["-y", "-p", "sqz", "sqz-mcp"]
+      "args": ["-y", "-p", "@nomada-labs/sqz", "sqz-mcp"]
     }
   }
 }
