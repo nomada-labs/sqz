@@ -186,7 +186,7 @@ Or with npx if sqz isn't installed globally:
   "mcpServers": {
     "sqz": {
       "command": "npx",
-      "args": ["sqz-mcp"]
+      "args": ["-y", "-p", "sqz", "sqz-mcp"]
     }
   }
 }

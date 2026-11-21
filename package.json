@@ -15,12 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abcreativ/sqz.git"
+    "url": "git+https://github.com/nomada-labs/sqz.git"
   },
-  "homepage": "https://github.com/abcreativ/sqz#readme",
+  "homepage": "https://github.com/nomada-labs/sqz#readme",
   "bugs": {
-    "url": "https://github.com/abcreativ/sqz/issues"
+    "url": "https://github.com/nomada-labs/sqz/issues"
   },
+  "author": "Nomada Software LLC",
   "keywords": [
     "image",
     "compress",
